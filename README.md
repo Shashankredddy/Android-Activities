@@ -1,4 +1,4 @@
 # Android-Activity_1
-Android Club activities ( VIT Chennai).
+Android Club activity ( VIT Chennai).
 
 By P Shashank Reddy (17BCE1071).
